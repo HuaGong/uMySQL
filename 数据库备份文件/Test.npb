@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BackupProfile Ver="1.2">
+  <General ConnectionName="RB001011" DatabaseName="rb001011" SchemaName="" Compressed="true" LockAllTables="false" UseSingleTransaction="false" UseSpecifyFileName="false" FileName="" Comments=""/>
+  <Tables SelectAll="false">
+    <Table Name="rb001011"/>
+  </Tables>
+  <Views SelectAll="false"/>
+  <Functions SelectAll="false"/>
+  <Events SelectAll="false"/>
+  <Sequences SelectAll="false"/>
+  <Indexes SelectAll="false"/>
+  <Triggers SelectAll="false"/>
+</BackupProfile>
